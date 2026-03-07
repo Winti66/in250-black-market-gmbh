@@ -5,9 +5,8 @@
 
 
 ##Bild
-![alt text][Titel Bild]
+![Prosche](docs/Porsche-911-GT2-RS.avif)
 
-[Titel Bild]:(pictures/Porsche-911-GT2-RS-102.avif)
 
 ##Doku
 
