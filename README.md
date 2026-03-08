@@ -12,6 +12,9 @@
 
 [Verzeichnis](docs/01_verzeichnisstruktur.md)
 
+##Branch Strategie
+[Strategie](docs/02_branch_stratagie.md)
+
 
 
 
