@@ -1,1 +1,1 @@
-#Merge Konfilikt A
+#Merge Konflikt A+B
