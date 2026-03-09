@@ -1,19 +1,30 @@
-#Ordner Struktur Black Market Software
+# Ordner Struktur Black Market Software
 
 
-##Die Ordnerstrktur und Daten ablage ist neu struktriert bei der Firma Black Market Software GmBh
+## Die Ordnerstrktur und Daten ablage ist neu struktriert bei der Firma Black Market Software GmBh
+
+## Webseite
+
+[Webseite](docs/index.html)
 
 
-##Bild
+## Bild
 ![Prosche](docs/Porsche-911-GT2-RS.avif)
 
 
-##Doku
+## Doku
 
 [Verzeichnis](docs/01_verzeichnisstruktur.md)
 
-##Branch Strategie
+## Branch Strategie
+
 [Strategie](docs/02_branch_stratagie.md)
+
+
+## Webseite
+
+[Webseite](docs/index.html)
+
 
 
 
@@ -21,7 +32,7 @@
 ## Taks
 - [x] Repository-Struktur erstellt
 - [x] Hauptseite (README) entworfen
-- [ ] Dokumentation für API vervollständigen
-- [ ] Design-Review durch Lord Black
+- [x] Dokumentation für API vervollständigen
+- [x] Design-Review durch Lord Black
 
 
