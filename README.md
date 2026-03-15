@@ -5,7 +5,7 @@
 
 ## Webseite
 
-[Webseite](docs/index.html)
+[Webseite](https://winti66.github.io/in250-black-market-gmbh/)
 
 
 ## Bild
@@ -20,10 +20,6 @@
 
 [Strategie](docs/02_branch_stratagie.md)
 
-
-## Webseite
-
-[Webseite](docs/index.html)
 
 
 
